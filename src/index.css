@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Anuphan", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f0efed;
+}
+
+code {
+  font-family: "Anuphan", sans-serif;
+}
